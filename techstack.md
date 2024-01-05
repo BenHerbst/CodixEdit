@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [BenHerbst/CodixEdit](https://github.com/BenHerbst/CodixEdit)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|79<br/>Tools used|12/18/23 <br/>Report generated|
+|80<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -299,9 +299,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (54)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (55)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (49)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (50)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -313,6 +313,7 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-env](https://www.npmjs.com/babel-preset-env)|v1.7.0|12/04/21|BenHerbst |MIT|N/A|
 |[babel-preset-stage-2](https://www.npmjs.com/babel-preset-stage-2)|v6.24.1|12/04/21|BenHerbst |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.26.0|12/04/21|BenHerbst |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|12/04/21|BenHerbst |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v4.6.0|12/04/21|BenHerbst |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v5.2.1|12/04/21|BenHerbst |MIT|N/A|
 |[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v11.3.2|12/04/21|BenHerbst |MIT|N/A|
